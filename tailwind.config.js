@@ -14,5 +14,15 @@ module.exports = {
       },
     },
   },
+  colors: {
+    white: "#FFFFFF",
+    bg1: "#2C2143",
+    bg2: "#000000",
+    bell: "#2F1A6199",
+    ellipse1: "#2F1A6199",
+    ellipse2: "#644D9A",
+    ellipse3: "#190E3466",
+    ellipse3Border: "#49318266",
+  },
   plugins: [],
 };
